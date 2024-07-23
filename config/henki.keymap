@@ -76,7 +76,7 @@
         COMBO(num_dot_r,          &kp DOT,          20 21,        1)
         COMBO(num_comma_r,        &kp COMMA,        19 21,        1)
             // nav
-        COMBO(nav_taskv,          TASK_V,            2  3,        2)
+        COMBO(nav_taskv,          TASK_V,            2  4,        2)
     };
 
     keymap {
